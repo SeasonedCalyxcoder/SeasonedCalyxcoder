@@ -1,4 +1,4 @@
-# 👋 Hey, my name is Sandra Muriuki
+# Hey, my name is Sandra Muriuki
 
 🎓 I'm an Informatics & Computer Science student at Strathmore University  
 💻 Passionate about backend development, databases, and distributed systems  
